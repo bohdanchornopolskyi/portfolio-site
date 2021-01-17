@@ -1,0 +1,18 @@
+[
+    {
+        "title": "My project",
+        "slug": "project-1",
+        "url": "https://example.com",
+        "img": "./images/project1.jpg",
+        "description": "Some project i buil to improve my skills and show that i'm capable of doing such things",
+        "longDescription": "Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description "
+    },
+    {
+        "title": "Another project",
+        "slug": "project-2",
+        "url": "https://example.com",
+        "img": "./images/project2.jpg",
+        "description": "Some more info about another my project and and and and and and and",
+        "longDescription": "Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description "
+    }
+]

@@ -6,5 +6,17 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-postcss',
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'project',
+        path: './data'
+      }
+    },
+    'gatsby-transformer-json'
+  ],
 }

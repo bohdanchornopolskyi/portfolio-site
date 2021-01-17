@@ -1,0 +1,9 @@
+1 - create a layout +++
+2 - make a custom scrolling(or not)
+3 - make a card component for Projects +++
+4 - style a card component for Projects +++
+5 - create a pages template for my projects +++
+6 - style a page with one project +++ 
+7 - add github link to every project(i'll do it later) +++
+8 - finish the projects page(i guess it finished) +++
+9 - make a custom 404 error page +++ 
