@@ -1,18 +1,18 @@
 [
-    {
-        "title": "My project",
-        "slug": "project-1",
-        "url": "https://example.com",
-        "img": "./images/project1.jpg",
-        "description": "Some project i buil to improve my skills and show that i'm capable of doing such things",
-        "longDescription": "Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description "
-    },
-    {
-        "title": "Another project",
-        "slug": "project-2",
-        "url": "https://example.com",
-        "img": "./images/project2.jpg",
-        "description": "Some more info about another my project and and and and and and and",
-        "longDescription": "Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description Yeah that's a long description "
-    }
+  {
+    "title": "Portfolio site",
+    "slug": "project-1",
+    "url": "https://github.com/bohdanchornopolskyi/portfolio-site",
+    "img": "./images/project1.jpg",
+    "description": "That is the site you are currently on. It build using Gatsby/React and styled with Tailwind CSS.",
+    "longDescription": "That is the site you are currently on. It build using Gatsby/React and styled with Tailwind CSS."
+  },
+  {
+    "title": "Social media app",
+    "slug": "project-2",
+    "url": "https://github.com/bohdanchornopolskyi/SMA-client",
+    "img": "./images/project2.jpg",
+    "description": "A social media app build with MERN stack and GraphQL, styled with SASS and Tailwind CSS.",
+    "longDescription": "A social media app build with MERN stack and GraphQL, styled with SASS and Tailwind CSS."
+  }
 ]

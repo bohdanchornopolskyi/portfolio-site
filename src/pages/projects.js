@@ -1,5 +1,5 @@
-import React from 'react'
-import { graphql, useStaticQuery } from 'gatsby'
+import React from "react"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import ProjectPreview from "../components/project-preview"
@@ -7,25 +7,25 @@ import ProjectPreview from "../components/project-preview"
 export default function Projects() {
   const data = useStaticQuery(graphql`
     {
-        allProjectsJson {
-          edges {
-            node {
-              title
-              slug
-              url
-              description
-              img{
-                childImageSharp{
-                    fluid(quality: 100){
-                        ...GatsbyImageSharpFluid
-                  }
+      allProjectsJson {
+        edges {
+          node {
+            title
+            slug
+            url
+            description
+            img {
+              childImageSharp {
+                fluid(quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
           }
         }
-      }      
-    `)
+      }
+    }
+  `)
 
   const project = data.allProjectsJson.edges
 
@@ -52,4 +52,3 @@ export default function Projects() {
     </Layout>
   )
 }
-
