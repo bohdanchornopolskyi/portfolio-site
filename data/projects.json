@@ -3,6 +3,7 @@
     "title": "Portfolio site",
     "slug": "project-1",
     "url": "https://github.com/bohdanchornopolskyi/portfolio-site",
+    "urlDeployed": "https://bohdan-chornopolskyi.netlify.app/",
     "img": "./images/project1.jpg",
     "description": "That is the site you are currently on. It build using Gatsby/React and styled with Tailwind CSS.",
     "longDescription": "That is the site you are currently on. It build using Gatsby/React and styled with Tailwind CSS."
@@ -10,7 +11,8 @@
   {
     "title": "Social media app",
     "slug": "project-2",
-    "url": "https://github.com/bohdanchornopolskyi/SMA-client",
+    "url": "https://github.com/bohdanchornopolskyi/portfolio-site",
+    "urlDeployed": "https://sma-bohdan-chornopolskyi.netlify.app/",
     "img": "./images/project2.jpg",
     "description": "A social media app build with MERN stack and GraphQL, styled with SASS and Tailwind CSS.",
     "longDescription": "A social media app build with MERN stack and GraphQL, styled with SASS and Tailwind CSS."
