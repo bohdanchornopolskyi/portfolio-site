@@ -11,7 +11,7 @@
   {
     "title": "Social media app",
     "slug": "project-2",
-    "url": "https://github.com/bohdanchornopolskyi/portfolio-site",
+    "url": "https://github.com/bohdanchornopolskyi/SMA-client",
     "urlDeployed": "https://sma-bohdan-chornopolskyi.netlify.app/",
     "img": "./images/project2.jpg",
     "description": "A social media app build with MERN stack and GraphQL, styled with SASS and Tailwind CSS.",
