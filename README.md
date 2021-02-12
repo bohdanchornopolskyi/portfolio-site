@@ -1,1 +1,1 @@
-Check out my portfolio site: https://bohdan-chornopolskyi.netlify.app/
+Check out deployed applicaation: https://bohdan-chornopolskyi.netlify.app/
